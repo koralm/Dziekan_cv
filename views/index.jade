@@ -16,7 +16,7 @@ block content
                             | Pełnione funkcje
                             i.fa.fa-university.fa-lg
                     li
-                        a(href='#')
+                        a(href='#projects')
                             | Projekty
                             i.fa.fa-tasks.fa-lg
                     li
@@ -251,6 +251,64 @@ block content
                                             h4 Srebrny i Brązowy Medal Za Zasługi Dla Obronnosci Kraju
                                         li
                                             h4 Honorowy Żołnierz 12 Szczecińskiej Dywizji Zmechanizowanej
+                #projects
+                .row
+                    .col-md-12
+                        .panel.panel-default
+                            .panel-body
+                                .owl-carousel.owl-theme
+                                    .item(data-merge='3').itemtlo
+                                        .row
+                                            .col-lg-12
+                                                h1 Projekt pierwszy
+                                        .row
+                                            .col-lg-4
+                                                img.imgxt(src='images/gwint 1.png', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/gwint 1.png', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/gwint 1.png', alt='Cinque Terre')
+                                        .row
+                                            .col-md-12
+                                                p Opis projektu
+                                                p Opis projektu
+                                    .item(data-merge='3').itemtlo
+                                        .row
+                                            .col-lg-12
+                                                h1 Projekt drugi
+                                        .row
+                                            .col-lg-4
+                                                img.imgxt(src='images/2s.jpg', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/2s.jpg', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/2s.jpg', alt='Cinque Terre')
+                                        .row
+                                            .col-md-12
+                                                p Opis projektu
+                                                p Opis projektu
+                                    .item(data-merge='3').itemtlo
+                                        .row
+                                            .col-lg-12
+                                                h1 Projekt trzeci
+                                        .row
+                                            .col-lg-4
+                                                img.imgxt(src='images/FORMA11.jpg', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/FORMA11.jpg', alt='Cinque Terre')
+                                            .col-lg-4
+                                                img.imgxt(src='images/FORMA11.jpg', alt='Cinque Terre')
+                                        .row
+                                            .col-md-12
+                                                p Opis projektu
+                                                p Opis projektu
+                                    .item(data-merge='3').itemtlo
+                                        h4 4
+                                    .item(data-merge='3').itemtlo
+                                        h4 5
+                                    .item(data-merge='3').itemtlo
+                                        h4 6
+
                 #articles
                 .row
                     .col-md-12
@@ -343,3 +401,13 @@ block content
                                                 font(size='3') Stefan Berczyński,
                                             font(size='3')  Tomasz Goduński:
                                             font(size='3')  Identification of Physical Parameters in Contact Joints Models of Machines Supporting Systems. Advances in Engineering Software “Including Computing Systems in Engineering”, Vol. 31, Nr 2, 2000, s. 149-155;
+
+    script.
+        $('.owl-carousel').owlCarousel({
+            items: 4,
+            loop: true,
+            center:true,
+            margin: 10,
+            merge:true,
+            nav: true
+        })

@@ -5,8 +5,12 @@ html
     link(rel='stylesheet', href='/stylesheets/style.css')
     link(rel='stylesheet', href='/font-awesome/css/font-awesome.css')
     link(rel='stylesheet', href='/stylesheets/timeline.css')
+    link(rel='stylesheet', href='/owl.carousel.2.0.0-beta.3/assets/owl.carousel.css')
+    link(rel='stylesheet', href='/owl.carousel.2.0.0-beta.3/assets/owl.theme.default.css')
     link(href='https://fonts.googleapis.com/css?family=Slabo+13px&subset=latin,latin-ext', rel='stylesheet', type='text/css')
     link(href='https://fonts.googleapis.com/css?family=Work+Sans:400,200', rel='stylesheet', type='text/css')
+    script(src='jquery/dist/jquery.js')
+    script(src='owl.carousel.2.0.0-beta.3/owl.carousel.min.js')
 
   body
     block content
@@ -15,12 +19,19 @@ html
   //BOTTOM MAIN SCRIPTS
   //JQUERY
   script(src='jquery/dist/jquery.js')
+
+  //OWL CAROUSEL
+  script(src='owl_carousel/owl.carousel.min.js')
+
   //STICKY
   script(src='jquery-sticky/jquery.sticky.js')
+
+
+
   script.
     $(document).ready(function () {
       $("#stick").sticky({topSpacing: 0});
-     //$("#stick1").sticky({topSpacing: 0});
+      $("#stick1").sticky({topSpacing: 0});
 
       var my_posts = $("[rel=tooltip]");
 
