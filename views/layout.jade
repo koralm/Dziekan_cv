@@ -7,12 +7,46 @@ html
     link(rel='stylesheet', href='/stylesheets/timeline.css')
     link(rel='stylesheet', href='/owl.carousel.2.0.0-beta.3/assets/owl.carousel.css')
     link(rel='stylesheet', href='/owl.carousel.2.0.0-beta.3/assets/owl.theme.default.css')
+
+    link(rel='stylesheet', href='//blueimp.github.io/Gallery/css/blueimp-gallery.min.css')
+    link(rel='stylesheet', href='blueimp-bootstrap-image-gallery/css/bootstrap-image-gallery.css')
+
     link(href='https://fonts.googleapis.com/css?family=Slabo+13px&subset=latin,latin-ext', rel='stylesheet', type='text/css')
     link(href='https://fonts.googleapis.com/css?family=Work+Sans:400,200', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Open+Sans', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Slabo+27px', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Roboto:400,300', rel='stylesheet', type='text/css')
+
     script(src='jquery/dist/jquery.js')
     script(src='owl.carousel.2.0.0-beta.3/owl.carousel.min.js')
+    script(src='waypoints/lib/noframework.waypoints.js')
 
   body
+    #blueimp-gallery.blueimp-gallery
+      // The container for the modal slides
+      .slides
+      // Controls for the borderless lightbox
+      h3.title
+      a.prev ‹
+      a.next ›
+      a.close ×
+      a.play-pause
+      ol.indicator
+      // The modal dialog, which will be used to wrap the lightbox content
+      .modal.fade
+        .modal-dialog
+          .modal-content
+            .modal-header
+              button.close(type='button', aria-hidden='true') ×
+              h4.modal-title
+            .modal-body.next
+            .modal-footer
+              button.btn.btn-default.pull-left.prev(type='button')
+                i.fa.fa-hand-o-left
+                |               Poprzedni
+              button.btn.btn-primary.next(type='button')
+                | Następny
+                i.fa.fa-hand-o-right
     block content
 
 
@@ -26,12 +60,15 @@ html
   //STICKY
   script(src='jquery-sticky/jquery.sticky.js')
 
+  script(src='//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js')
+  script(src='blueimp-bootstrap-image-gallery/js/bootstrap-image-gallery.js')
+
 
 
   script.
     $(document).ready(function () {
       $("#stick").sticky({topSpacing: 0});
-      $("#stick1").sticky({topSpacing: 0});
+      //$("#stick1").sticky({topSpacing: 0});
 
       var my_posts = $("[rel=tooltip]");
 

@@ -5820,14 +5820,17 @@ button.close {
 body {
   overflow-x: hidden; }
 
+.article {
+  font-family: 'Roboto', sans-serif; }
+
 .itemtlo {
-  background-color: lightblue; }
+  background-color: #F2F5F5; }
 
 .hcard {
   padding-top: 2%;
   padding-left: 5%;
   font-size: 2.5em;
-  font-family: 'Work Sans', sans-serif; }
+  font-family: 'Slabo 27px', serif; }
 
 i.ix {
   display: inline-block;
@@ -5892,6 +5895,28 @@ i.ix {
   padding: 0 !important;
   margin: 0 !important; }
 
+.nav-pills > li:hover {
+  border-top-width: 0px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #cccccc;
+  border-right-width: 8px;
+  border-right-style: solid;
+  border-right-color: #980000;
+  padding: 0 !important;
+  margin: 0 !important; }
+
+.nav-pills > li.active {
+  border-top-width: 0px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #cccccc;
+  border-right-width: 8px;
+  border-right-style: solid;
+  border-right-color: #980000;
+  padding: 0 !important;
+  margin: 0 !important; }
+
 .nav-pills > li > a {
   color: rgba(16, 16, 16, 0.88);
   font-family: 'Slabo 13px', sans-serif;
@@ -5899,6 +5924,24 @@ i.ix {
   margin-right: 5px;
   margin-top: 0px;
   margin-bottom: 0px; }
+
+.nav-pills > li.active > a {
+  color: rgba(16, 16, 16, 0.88);
+  font-family: 'Slabo 13px', sans-serif;
+  font-size: 1.8em;
+  margin-right: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lightgray; }
+
+.nav-pills > li.active > a:hover {
+  color: rgba(16, 16, 16, 0.88);
+  font-family: 'Slabo 13px', sans-serif;
+  font-size: 1.8em;
+  margin-right: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lightgray; }
 
 .fa {
   margin-left: 20px; }
