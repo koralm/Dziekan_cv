@@ -5820,6 +5820,14 @@ button.close {
 body {
   overflow-x: hidden; }
 
+.projlist {
+  margin-left: 20px; }
+
+.projdesc {
+  padding-left: 20px;
+  text-align: justify;
+  text-justify: inter-word; }
+
 .article {
   font-family: 'Roboto', sans-serif; }
 

@@ -2,13 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a47cd08b-492e-4ee3-ac78-7f06b6a8487a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TG/01TG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TG/02TG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TG/03TG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TG/04TG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/TG/05TG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/play-pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/video-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/css/bootstrap-image-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/css/bootstrap-image-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/css/bootstrap-image-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/js/bootstrap-image-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/js/bootstrap-image-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/js/bootstrap-image-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-bootstrap-image-gallery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery-video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/blueimp-gallery.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/error.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/play-pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/img/video-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery-fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery-indicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery-vimeo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery-youtube.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/blueimp-helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/jquery.blueimp-gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/jquery.blueimp-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/jquery.blueimp-gallery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/js/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/blueimp-gallery/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/waypoints/package.json" afterPath="$PROJECT_DIR$/node_modules/waypoints/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css.map" afterPath="$PROJECT_DIR$/public/stylesheets/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.sass" afterPath="$PROJECT_DIR$/public/stylesheets/style.sass" />
@@ -34,21 +74,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23296158">
-              <caret line="274" column="63" selection-start-line="274" selection-start-column="63" selection-end-line="274" selection-end-column="63" />
+            <state vertical-scroll-proportion="6.037037">
+              <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8703704">
-              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.42765957">
+              <caret line="394" column="75" selection-start-line="394" selection-start-column="75" selection-end-line="394" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -57,21 +97,16 @@
       <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1698112">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
+            <state vertical-scroll-proportion="-2.3584905">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <marker date="1456957896637" expanded="true" signature="135:156" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -86,15 +121,10 @@
       <list>
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
-        <option value="$PROJECT_DIR$/public/stylesheets/timeline.sass" />
-        <option value="$PROJECT_DIR$/public/stylesheets/timeline.css" />
-        <option value="$PROJECT_DIR$/bin/server.js" />
-        <option value="$PROJECT_DIR$/server.js" />
-        <option value="C:/Dziekan_cv/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/views/layout.jade" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.sass" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
       </list>
     </option>
   </component>
@@ -108,8 +138,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -136,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,11 +195,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,8 +213,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dziekan_cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dziekan_cv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,18 +244,966 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Dziekan_cv" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Dziekan_cv\public\images\TG" />
       <recent name="C:\GitHub\Dziekan_cv\public\images" />
-      <recent name="C:\GitHub\Dziekan_cv\node_modules" />
-      <recent name="C:\GitHub\Dziekan_cv\public\stylesheets" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/waypoints/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/stylesheets/style.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/stylesheets/style.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/stylesheets/style.sass</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/views/index.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/views/layout.jade</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/ajax-loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.carousel.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.carousel.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.theme.default.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.theme.default.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.theme.green.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.theme.green.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/assets/owl.video.play.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/owl.carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/owl.carousel.2.0.0-beta.3/owl.carousel.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/2s.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/FORMA11.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/TG/01TG.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/TG/02TG.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/TG/03TG.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/TG/04TG.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/TG/05TG.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/WIMiM_logo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/ZUT_logo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/gwint 1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/images/profile-bg.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/.name</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/bootstrap-material-design-3.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/jsLibraryMappings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/libraries/bootstrap_material_design_3_node_modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.ruby-gemset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.ruby-version</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-dropdownjs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-nouislider.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-selectize.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-snackbarjs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/1e1dcca864a2e0edda6f7669ac643f268c880fdc/_variables.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_alerts.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_bootstrap-material-design.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_buttons.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_cards.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_checkboxes.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_colors.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_core.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_dialogs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_dividers.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_form.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_icons-material-design.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_icons.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_import-bs-less.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_import-bs-sass.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_inputs-size.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_inputs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_lists.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_mixins-utilities.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_mixins.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_navbar.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_panels.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_plugins.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_popups.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_progress.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_radios.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_shadows.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_tabs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_themes.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_togglebutton.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_typography.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_variables.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_welljumbo.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/bootstrap-material-design.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/ripples.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_alerts.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_buttons.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_cards.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_checkboxes.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_colors.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_core.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_dialogs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_dividers.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_form.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_import-bs-less.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_import-bs-sass.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_inputs-size.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_inputs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_lists.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_mixins-utilities.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_mixins.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_navbar.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_panels.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_plugins.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_popups.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_progress.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_radios.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_shadows.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_tabs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_themes.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_togglebutton.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_typography.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_variables.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_welljumbo.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/bootstrap-material-design.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/ripples.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-dropdownjs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-nouislider.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-selectize.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-snackbarjs.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/.sass-cache/d2594f1532324eab51442ffb8cab857877968446/_variables.scssc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/Gemfile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/Gemfile.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/LICENSE.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/_config.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/.bower.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap-sprockets.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/affix.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/alert.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/button.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/modal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/popover.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/scrollspy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tooltip.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-mincer.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_badges.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_breadcrumbs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_button-groups.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_close.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_code.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_component-animations.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_dropdowns.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_input-groups.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_jumbotron.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_labels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_list-group.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_media.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pager.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pagination.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_panels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_popovers.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_print.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_progress-bars.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tables.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_theme.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_thumbnails.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tooltip.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_wells.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_alerts.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_background-variant.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_border-radius.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_buttons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_center-block.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_clearfix.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_forms.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_gradients.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid-framework.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_hide-text.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_image.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_labels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_list-group.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-divider.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_opacity.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_pagination.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_panels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_progress-bar.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_reset-filter.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_reset-text.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_resize.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_size.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_tab-focus.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_table-row.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-overflow.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/composer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap-sass/sache.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/Gruntfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/js/bootstrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/js/bootstrap.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/dist/js/npm.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/bs-commonjs-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/bs-lessdoc-parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/bs-raw-files-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/configBridge.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/grunt/sauce_browsers.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/affix.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/alert.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/button.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/collapse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/dropdown.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/modal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/popover.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/scrollspy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/tab.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/tooltip.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/js/transition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/alerts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/badges.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/bootstrap.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/breadcrumbs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/button-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/carousel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/close.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/code.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/component-animations.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/dropdowns.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/glyphicons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/input-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/jumbotron.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/labels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/list-group.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/media.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/alerts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/background-variant.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/border-radius.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/center-block.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/clearfix.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/gradients.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/grid-framework.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/hide-text.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/image.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/labels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/list-group.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/nav-divider.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/nav-vertical-align.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/opacity.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/pagination.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/panels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/progress-bar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/reset-filter.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/reset-text.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/resize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/responsive-visibility.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/size.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/tab-focus.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/table-row.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/text-emphasis.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/text-overflow.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/mixins/vendor-prefixes.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/modals.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/navbar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/navs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/normalize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/pager.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/pagination.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/panels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/popovers.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/print.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/progress-bars.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/responsive-embed.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/responsive-utilities.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/scaffolding.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/tables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/theme.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/thumbnails.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/tooltip.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/type.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/utilities.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/less/wells.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/bootstrap/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/.bower.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/MIT-LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/dist/jquery.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/dist/jquery.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/dist/jquery.min.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/jsonp.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/load.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/parseJSON.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/parseXML.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/script.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/var/nonce.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/var/rquery.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/ajax/xhr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes/attr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes/classes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes/prop.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes/support.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/attributes/val.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/callbacks.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core/access.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core/init.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core/parseHTML.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core/ready.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/core/var/rsingleTag.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/addGetHookIf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/curCSS.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/defaultDisplay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/hiddenVisibleSelectors.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/support.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/swap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/var/cssExpand.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/var/getStyles.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/var/isHidden.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/var/rmargin.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/css/var/rnumnonpx.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/data.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/data/Data.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/data/accepts.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/data/var/data_priv.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/data/var/data_user.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/deferred.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/deprecated.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/dimensions.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/effects.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/effects/Tween.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/effects/animatedSelector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/event.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/event/ajax.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/event/alias.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/event/support.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/exports/amd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/exports/global.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/intro.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/jquery.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/manipulation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/manipulation/_evalUrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/manipulation/support.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/manipulation/var/rcheckableType.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/offset.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/outro.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/queue.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/queue/delay.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/selector-native.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/selector-sizzle.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/selector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/serialize.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.min.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/traversing.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/traversing/findFilter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/traversing/var/rneedsContext.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/arr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/class2type.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/concat.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/hasOwn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/indexOf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/pnum.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/push.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/rnotwhite.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/slice.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/strundefined.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/support.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/var/toString.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/bower_components/jquery/src/wrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/demo/imgs/banner.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/demo/imgs/gittip-button.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/demo/imgs/issues-button.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/ripples.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/ripples.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/ripples.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/css/ripples.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/material.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/material.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/material.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/ripples.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/ripples.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/js/ripples.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/sassc/bootstrap-material-design.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/sassc/bootstrap-material-design.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/sassc/ripples.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/dist/sassc/ripples.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_data/browser-bugs.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_data/core-team.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_data/icons.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/ads.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/alerts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/badges.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/breadcrumbs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/button-dropdowns.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/button-groups.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/dropdowns.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/icons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/input-groups.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/jumbotron.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/labels.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/list-group.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/media.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/navbar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/navs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/page-header.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/pagination.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/panels.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/progress-bars.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/responsive-embed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/thumbnails.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/components/wells.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/buttons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/code.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/forms.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/grid.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/helpers.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/images.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/less.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/overview.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/responsive-utilities.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/sass.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/tables.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/css/type.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/footer.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/accessibility.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/browser-device-support.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/community.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/disabling-responsiveness.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/download.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/examples.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/grunt.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/license.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/template.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/third-party-support.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/tools.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/translations.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/getting-started/whats-included.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/header.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/affix.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/alerts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/buttons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/carousel.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/collapse.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/dropdowns.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/modal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/overview.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/popovers.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/scrollspy.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/tooltips.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/js/transitions.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/about.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/components.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/css.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/customize.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/getting-started.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/javascript.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/main.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_includes/nav/migration.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_jade/customizer-nav.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_jade/customizer-variables.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_layouts/default.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_layouts/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_plugins/bridge.rb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/_plugins/bugify.rb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/about.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/brand/bootstrap-outline.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/brand/bootstrap-punchout.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/brand/bootstrap-solid.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/docs.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/docs.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/ie10-viewport-bug-workaround.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_ads.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_anchors.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_brand.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_callouts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_clipboard.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_code.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_color-swatches.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_customizer.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_examples.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_featured.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_featurette.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_footer.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_header.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_home.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_icons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_nav.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_responsive.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_sections.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_sidebar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/_team.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/docs.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/docs.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/docs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/css/src/pygments-manni.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/flash/ZeroClipboard.swf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/components.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/devices.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/expo-lyft.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/expo-newsweek.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/expo-riot.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/expo-vogue.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/material-design-color-palette.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/img/sass-less.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/customize.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/customize.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/docs.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/docs.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/ie-emulation-modes-warning.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/ie10-viewport-bug-workaround.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/ie8-responsive-file-warning.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/raw-files.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/src/application.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/src/customizer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/Blob.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/FileSaver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/ZeroClipboard.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/anchor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/autoprefixer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/holder.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/jquery.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/jszip.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/less.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/assets/js/vendor/uglify.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/browser-bugs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/components.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/css.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/blog/blog.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/carousel/carousel.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/cover/cover.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/dashboard/dashboard.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/grid/grid.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/jumbotron-narrow/jumbotron-narrow.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/jumbotron/jumbotron.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/justified-nav/justified-nav.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/navbar-fixed-top/navbar-fixed-top.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/navbar-static-top/navbar-static-top.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/navbar/navbar.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/non-responsive/non-responsive.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/offcanvas/offcanvas.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/offcanvas/offcanvas.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/blog.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/carousel.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/cover.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/dashboard.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/equal-height-columns.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/grid.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/jumbotron-narrow.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/jumbotron.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/justified-nav.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/navbar-fixed.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/navbar-static.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/navbar.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/non-responsive.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/offcanvas.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/sign-in.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/starter-template.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/sticky-footer-navbar.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/sticky-footer.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/screenshots/theme.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/signin/signin.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/starter-template/starter-template.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/sticky-footer/sticky-footer.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/theme/theme.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/tooltip-viewport/tooltip-viewport.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/examples/tooltip-viewport/tooltip-viewport.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/getting-started.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/javascript.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/robots.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/docs/sitemap.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/grunt/bmd-icons-data-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/grunt/configBridge.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/index.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/.csslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_alerts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_cards.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_checkboxes.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_colors.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_core.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_dialogs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_dividers.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_form.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_import-bs-less.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_import-bs-sass.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_inputs-size.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_inputs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_lists.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_mixins.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_navbar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_panels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_plugins.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_popups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_progress.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_radios.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_shadows.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_tabs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_themes.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_togglebutton.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_typography.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/_welljumbo.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/bootstrap-material-design.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/plugins/_plugin-dropdownjs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/plugins/_plugin-nouislider.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/plugins/_plugin-selectize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/plugins/_plugin-snackbarjs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/less/ripples.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/.meteor/packages</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/.meteor/release</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/client/bmd.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/client/bmd.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/client/bmd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/run.bat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/example/run.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/init.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/meteor/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/Gruntfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap-theme.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap-theme.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap-theme.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/css/bootstrap.min.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/js/bootstrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/js/bootstrap.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/dist/js/npm.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/.jshintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/bs-commonjs-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/bs-lessdoc-parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/bs-raw-files-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/configBridge.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/grunt/sauce_browsers.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/affix.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/alert.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/button.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/collapse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/dropdown.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/modal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/popover.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/scrollspy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/tab.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/tooltip.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/js/transition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/alerts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/badges.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/bootstrap.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/breadcrumbs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/button-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/carousel.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/close.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/code.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/component-animations.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/dropdowns.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/glyphicons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/input-groups.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/jumbotron.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/labels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/list-group.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/media.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/alerts.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/background-variant.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/border-radius.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/buttons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/center-block.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/clearfix.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/forms.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/gradients.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/grid-framework.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/grid.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/hide-text.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/image.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/labels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/list-group.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/nav-divider.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/nav-vertical-align.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/opacity.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/pagination.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/panels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/progress-bar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/reset-filter.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/reset-text.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/resize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/responsive-visibility.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/size.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/tab-focus.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/table-row.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/text-emphasis.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/text-overflow.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/mixins/vendor-prefixes.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/modals.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/navbar.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/navs.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/normalize.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/pager.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/pagination.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/panels.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/popovers.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/print.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/progress-bars.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/responsive-embed.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/responsive-utilities.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/scaffolding.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/tables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/theme.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/thumbnails.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/tooltip.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/type.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/utilities.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/less/wells.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/node_modules/bootstrap/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_alerts.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_buttons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_cards.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_checkboxes.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_colors-map.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_colors.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_core.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_dialogs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_dividers.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_form.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_import-bs-less.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_import-bs-sass.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_inputs-size.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_inputs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_labels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_lists.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_mixins-utilities.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_mixins.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_navbar.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_panels.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_plugins.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_popups.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_progress.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_radios.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_shadows.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_tabs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_themes.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_togglebutton.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_typography.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_variables.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_welljumbo.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/bootstrap-material-design.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/plugins/_plugin-dropdownjs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/plugins/_plugin-nouislider.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/plugins/_plugin-selectize.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/plugins/_plugin-snackbarjs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/ripples.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/scripts/.jscsrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/scripts/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/scripts/material.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/scripts/ripples.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/test/materialSpec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/test/ripplesSpec.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/bootstrap-material-design/testcase.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunManager" selected="Node.js.bin\www">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -225,6 +1217,11 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -277,85 +1274,30 @@
       <option name="number" value="Default" />
       <updated>1456477865856</updated>
     </task>
-    <task id="LOCAL-00001" summary="Bliżej końca :)">
-      <created>1456761619526</created>
-      <option name="number" value="00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1456761619526</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Versja 0.5 bez projektów">
-      <created>1456825387375</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1456825387375</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Versja 0.5 bez projektów">
-      <created>1456826881758</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1456826881758</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Versja 0.5 bez projektów 5">
-      <created>1456835633134</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1456835633134</updated>
-    </task>
-    <task id="LOCAL-00005" summary="test 12">
-      <created>1456836271709</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1456836271709</updated>
-    </task>
-    <task id="LOCAL-00006" summary="22">
-      <created>1456837192822</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1456837192822</updated>
-    </task>
-    <task id="LOCAL-00007" summary="2234">
-      <created>1456838401469</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1456838401469</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Projekt dodany&#10;&#10;Co poprawicz czekanie">
-      <created>1456843913423</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1456843913423</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Projekt dodany&#10;&#10;Co poprawicz czekanie,fr">
-      <created>1456845395621</created>
-      <option name="number" value="00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1456845395621</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19739953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19974227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25437415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -391,111 +1333,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pierwsza wersja" />
-    <MESSAGE value="Bliżej końca :)" />
-    <MESSAGE value="Versja 0.5 bez projektów" />
-    <MESSAGE value="Versja 0.5 bez projektów 5" />
-    <MESSAGE value="test 12" />
-    <MESSAGE value="22" />
-    <MESSAGE value="2234" />
-    <MESSAGE value="Projekt dodany&#10;&#10;Co poprawicz czekanie" />
-    <MESSAGE value="Projekt dodany&#10;&#10;Co poprawicz czekanie,fr" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projekt dodany&#10;&#10;Co poprawicz czekanie,fr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwsza wersja" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Dziekan_cv/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Dziekan_cv/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/timeline.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -503,6 +1352,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -510,6 +1360,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -541,50 +1408,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14302884">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/timeline.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13642214">
-          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.123188406">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3265306">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Dziekan_cv/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06910569">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5470297">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4463415">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.036170214">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss">
+    <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -592,42 +1432,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss">
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33247754">
-          <caret line="120" column="23" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3491656">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state vertical-scroll-proportion="6.037037">
+          <caret line="24" column="70" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1698112">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8703704">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-2.3584905">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1456957896637" expanded="true" signature="135:156" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23296158">
-          <caret line="274" column="63" selection-start-line="274" selection-start-column="63" selection-end-line="274" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.42765957">
+          <caret line="394" column="75" selection-start-line="394" selection-start-column="75" selection-end-line="394" selection-end-column="75" />
           <folding />
         </state>
       </provider>
