@@ -23,7 +23,8 @@ html
     script(src='waypoints/lib/noframework.waypoints.js')
 
   body
-    #blueimp-gallery.blueimp-gallery(data-use-bootstrap-modal='false')
+    #blueimp-gallery.blueimp-gallery
+      //(data-use-bootstrap-modal='false')
       // The container for the modal slides
       .slides
       // Controls for the borderless lightbox
@@ -43,11 +44,11 @@ html
             .modal-body.next
             .modal-footer
               button.btn.btn-default.pull-left.prev(type='button')
-                i.fa.fa-hand-o-left
-                | Poprzedni
+                i.fa.fa-arrow-left.nopadding
+                |  Poprzedni
               button.btn.btn-primary.next(type='button')
-                | Następny
-                i.fa.fa-hand-o-right
+                |  Następny
+                i.fa.fa-arrow-right.nopadding
     block content
 
 
