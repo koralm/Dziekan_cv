@@ -27,6 +27,10 @@ block content
                     li#art
                         a(href='#articles')
                             | Artykuły
+                            i.fa.fa-file-text-o.fa-lg
+                    li#dyd
+                        a(href='#dydaktyka')
+                            | Dydaktyka
                             i.fa.fa-graduation-cap.fa-lg
         .col-md-9.nopadding
             #stick1
@@ -669,7 +673,20 @@ block content
                                                 font(size='3')  Identification of Physical Parameters in Contact Joints Models of Machines Supporting Systems
                                                 p
                                                     font(size='3') Advances in Engineering Software “Including Computing Systems in Engineering”, vol. 31 (2000), s. 149-155;
-
+                #dydaktyka
+                .row
+                    .col-md-12
+                        .panel.panel-default
+                            .panel-body
+                                .row
+                                    i.ix.fa.fa-graduation-cap.fa-5x
+                                    p.hcard Materiały dydaktyczne
+                                ul.nav.nav-pills.nav-stacked
+                                    li
+                                        a
+                                            .article
+                                                b
+                                                    font(size='4') Statystyka Matematyczna
     script.
         $('.owl-carousel').owlCarousel({
             items: 4,
@@ -689,6 +706,7 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -702,6 +720,7 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -714,7 +733,7 @@ block content
                 $("li#abo").addClass('active');
                 $("li#func").removeClass('active');
                 $("li#proj").removeClass('active');
-                $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -728,6 +747,7 @@ block content
                 $("li#func").addClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -741,6 +761,7 @@ block content
                 $("li#func").addClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -754,6 +775,7 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").addClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -767,6 +789,7 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").addClass('active');
                 $("li#art").removeClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -781,6 +804,7 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").addClass('active');
+                $("li#dyd").removeClass('active');
             },
             offset: '20%'
         })
@@ -794,6 +818,21 @@ block content
                 $("li#func").removeClass('active');
                 $("li#proj").removeClass('active');
                 $("li#art").addClass('active');
+                $("li#dyd").removeClass('active');
+            },
+            offset: '20%'
+        })
+
+    script.
+        var waypoint1 = new Waypoint({
+            element: document.getElementById('dydaktyka'),
+            handler: function (direction) {
+                $("li#star").removeClass('active');
+                $("li#abo").removeClass('active');
+                $("li#func").removeClass('active');
+                $("li#proj").removeClass('active');
+                $("li#art").removeClass('active');
+                $("li#dyd").addClass('active');
             },
             offset: '20%'
         })
